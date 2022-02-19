@@ -9,4 +9,4 @@ Demonstrate various mathematical concepts through approximations.
 ![Newton Raphson Method](https://user-images.githubusercontent.com/49791407/154791478-61c85a2c-0904-4de0-8e0c-42af14980726.png)
 
 ## Motion of a Line Segment Moving along a Point
-curve-with-critical-point.png![image](https://user-images.githubusercontent.com/49791407/154791951-78bd2c29-b224-499b-9a39-06de5c981839.png)
+![image](https://user-images.githubusercontent.com/49791407/154791951-78bd2c29-b224-499b-9a39-06de5c981839.png)
