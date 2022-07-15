@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+
+\title{Newton Raphson Method}
+\author{AJM432}
+\date{February 2022}
+
+\begin{document}
+\maketitle
+
+Let $g(x)$ denote the tangent line of $f(x)$ at $\alpha$.
+Then $$f(\alpha) = \alpha f'(\alpha) + b$$
+Therefore $$b=f(\alpha)- \alpha f'(\alpha)$$
+$$g(x)=f'(\alpha)x + f(\alpha)- \alpha f'(\alpha)$$
+
+Now we must set $g(x)=0$ to find a value of $\alpha$ closer to a root of $f(x)$.
+
+$$f'(\alpha)x + f(\alpha)- \alpha f'(\alpha)=0$$
+$$x=\frac{ \alpha f'(\alpha)-f(\alpha)}{f'(\alpha)}$$
+Now we may set this value of $x$ as our next point of iteration.
+Now we can input this x back into the tangent equation to get a value closer to a root. $$\boxed{\alpha_{n+1}=\frac{ \alpha_n f'(\alpha_n)-f(\alpha_n)}{f'(\alpha_n)}}$$
+
+Now we may iterate the above equation starting at an arbitrary value for $\alpha$ until $\alpha_{n+1}$ approaches a fixed value.
+
+\end{document}
