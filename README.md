@@ -10,3 +10,6 @@ Demonstrate various mathematical concepts through approximations.
 
 ## Motion of a Line Segment Moving along a Point
 ![image](https://user-images.githubusercontent.com/49791407/154791951-78bd2c29-b224-499b-9a39-06de5c981839.png)
+
+## Exploration of a Curved Surface
+![f(x)](https://user-images.githubusercontent.com/49791407/180256849-a5698de0-d05c-4069-abbb-34e49fdb66c1.png)
