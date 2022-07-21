@@ -1,5 +1,5 @@
 # Math-Projects
-Demonstrate various mathematical concepts through approximations.
+Demonstrate various mathematical concepts through simulations and explanations using latex.
 
 # Examples:
 ## Zeta Function Roots
